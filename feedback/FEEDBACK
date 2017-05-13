@@ -1,1 +1,12 @@
+Please look at the general comments to see if any apply.
 
+Even private fields and methods require javadoc.
+
+When throwing an exception, as in ContactImpl, sometimes it is 
+useful to add a "throws" clause which also acts as documentation.
+
+Good use of Java 8 features.
+
+Good set of tests; could have been more extensive.
+
+Excellent effort. Distinction.
